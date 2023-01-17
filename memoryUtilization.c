@@ -15,7 +15,7 @@ printf("char has memory value of %d\n", sizeof(char));
 printf("float has memory value of %d\n", sizeof(float));
 printf("long int has memory value of %d\n", sizeof(long int));
 printf("long float has memory value of %d\n", sizeof(double));
-
+printf("long long int has a memory value of %d\n", sizeof(long long int));
 
 /*printf("bit has memory value of %d\n", sizeof(byte));*/
 }
